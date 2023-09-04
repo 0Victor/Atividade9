@@ -1,0 +1,25 @@
+body{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box1 h1{
+    font-size: 50px;
+}
+
+.box1{
+    background-color: rgb(156, 177, 156);
+    width: 900px;
+    height: 1000px;
+    padding: 10px;
+    margin: 0 auto;
+  }
+
+.fixa {
+    background-color: rgb(70, 67, 67);
+    position:fixed;
+    width: 250px;
+    left: 100px;
+    bottom: 800px;
+
+}

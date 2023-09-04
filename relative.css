@@ -1,0 +1,20 @@
+body {
+    color: white;
+}
+
+.box1 {
+    background-color:  rgb(156, 177, 156);
+    width: 800px;
+    height: 950px;
+    margin: 0 auto;
+}
+
+.relative {
+    background-color:  rgb(70, 67, 67);
+    position: relative;
+    width: 350px;
+    height: 420px;
+    top: 70px;
+    left: 70px;
+    padding: 10px;
+}
